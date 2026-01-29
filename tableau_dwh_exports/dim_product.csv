@@ -1,0 +1,161 @@
+product_key,product_business_key,product_name,category,subcategory,valid_from,valid_to,is_current,version
+1,162552,Action Camera,Electronics,Budget,2026-01-30 00:03:11.094128,,True,1
+2,819881,Action Camera,Electronics,Premium,2026-01-30 00:03:11.094128,,True,1
+3,135118,Air Purifier,Home,Premium,2026-01-30 00:03:11.094128,,True,1
+4,380820,Air Purifier,Home,Budget,2026-01-30 00:03:11.094128,,True,1
+5,615228,Air Purifier,Home,Premium,2026-01-30 00:03:11.094128,,True,1
+6,922390,Air Purifier,Home,Standard,2026-01-30 00:03:11.094128,,True,1
+7,119181,Backpack,Hiking,Premium,2026-01-30 00:03:11.094128,,True,1
+8,943832,Backpack,Hiking,Standard,2026-01-30 00:03:11.094128,,True,1
+9,632027,Belt,Clothing,Budget,2026-01-30 00:03:11.094128,,True,1
+10,122158,Blazer,Clothing,Budget,2026-01-30 00:03:11.094128,,True,1
+11,274174,Blazer,Clothing,Budget,2026-01-30 00:03:11.094128,,True,1
+12,280799,Blazer,Clothing,Premium,2026-01-30 00:03:11.094128,,True,1
+13,626881,Blender,Home,Budget,2026-01-30 00:03:11.094128,,True,1
+14,821619,Blender,Home,Premium,2026-01-30 00:03:11.094128,,True,1
+15,869851,Blender,Home,Budget,2026-01-30 00:03:11.094128,,True,1
+16,649203,Blender,Home,Premium,2026-01-30 00:03:11.094128,,True,1
+17,799002,Bluetooth Speaker,Electronics,Standard,2026-01-30 00:03:11.094128,,True,1
+18,834396,Body Lotion,Beauty,Premium,2026-01-30 00:03:11.094128,,True,1
+19,639637,Body Lotion,Beauty,Standard,2026-01-30 00:03:11.094128,,True,1
+20,583433,Bookshelf,Home,Premium,2026-01-30 00:03:11.094128,,True,1
+21,815510,Bookshelf,Home,Premium,2026-01-30 00:03:11.094128,,True,1
+22,130286,Bookshelf,Home,Standard,2026-01-30 00:03:11.094128,,True,1
+23,524020,Camping Stove,Hiking,Budget,2026-01-30 00:03:11.094128,,True,1
+24,337005,Camping Stove,Hiking,Premium,2026-01-30 00:03:11.094128,,True,1
+25,349197,Camping Stove,Hiking,Premium,2026-01-30 00:03:11.094128,,True,1
+26,204997,Coat,Clothing,Premium,2026-01-30 00:03:11.094128,,True,1
+27,880056,Coat,Clothing,Standard,2026-01-30 00:03:11.094128,,True,1
+28,431931,Coat,Clothing,Budget,2026-01-30 00:03:11.094128,,True,1
+29,326574,Coat,Clothing,Premium,2026-01-30 00:03:11.094128,,True,1
+30,121428,Coffee Maker,Home,Standard,2026-01-30 00:03:11.094128,,True,1
+31,480755,Coffee Maker,Home,Budget,2026-01-30 00:03:11.094128,,True,1
+32,733433,Coffee Maker,Home,Standard,2026-01-30 00:03:11.094128,,True,1
+33,623578,Compass,Hiking,Budget,2026-01-30 00:03:11.094128,,True,1
+34,122735,Compass,Hiking,Standard,2026-01-30 00:03:11.094128,,True,1
+35,708083,Compass,Hiking,Premium,2026-01-30 00:03:11.094128,,True,1
+36,519631,Conditioner,Beauty,Premium,2026-01-30 00:03:11.094128,,True,1
+37,737232,Cookware Set,Home,Budget,2026-01-30 00:03:11.094128,,True,1
+38,689146,Cookware Set,Home,Standard,2026-01-30 00:03:11.094128,,True,1
+39,843963,Cookware Set,Home,Budget,2026-01-30 00:03:11.094128,,True,1
+40,505080,Curtains,Home,Premium,2026-01-30 00:03:11.094128,,True,1
+41,539234,Desk Lamp,Home,Budget,2026-01-30 00:03:11.094128,,True,1
+42,772594,Desk Lamp,Home,Standard,2026-01-30 00:03:11.094128,,True,1
+43,963487,Dress Shirt,Clothing,Premium,2026-01-30 00:03:11.094128,,True,1
+44,157410,Dress Shirt,Clothing,Standard,2026-01-30 00:03:11.094128,,True,1
+45,348661,Dress Shirt,Clothing,Premium,2026-01-30 00:03:11.094128,,True,1
+46,104063,Drone,Electronics,Budget,2026-01-30 00:03:11.094128,,True,1
+47,170770,Drone,Electronics,Premium,2026-01-30 00:03:11.094128,,True,1
+48,132203,Electric Kettle,Home,Budget,2026-01-30 00:03:11.094128,,True,1
+49,413009,Electric Kettle,Home,Premium,2026-01-30 00:03:11.094128,,True,1
+50,755830,External Hard Drive,Electronics,Standard,2026-01-30 00:03:11.094128,,True,1
+51,527011,External Hard Drive,Electronics,Budget,2026-01-30 00:03:11.094128,,True,1
+52,949110,External Hard Drive,Electronics,Premium,2026-01-30 00:03:11.094128,,True,1
+53,613964,Face Mask,Beauty,Budget,2026-01-30 00:03:11.094128,,True,1
+54,733021,Face Mask,Beauty,Standard,2026-01-30 00:03:11.094128,,True,1
+55,134071,Face Mask,Beauty,Budget,2026-01-30 00:03:11.094128,,True,1
+56,910188,Face Wash,Beauty,Budget,2026-01-30 00:03:11.094128,,True,1
+57,353286,Face Wash,Beauty,Premium,2026-01-30 00:03:11.094128,,True,1
+58,116588,Face Wash,Beauty,Premium,2026-01-30 00:03:11.094128,,True,1
+59,550196,Face Wash,Beauty,Standard,2026-01-30 00:03:11.094128,,True,1
+60,253787,First Aid Kit,Hiking,Budget,2026-01-30 00:03:11.094128,,True,1
+61,851456,Foundation,Beauty,Budget,2026-01-30 00:03:11.094128,,True,1
+62,573730,Foundation,Beauty,Standard,2026-01-30 00:03:11.094128,,True,1
+63,538447,Foundation,Beauty,Premium,2026-01-30 00:03:11.094128,,True,1
+64,499515,Gaming Mouse,Electronics,Budget,2026-01-30 00:03:11.094128,,True,1
+65,400152,Gaming Mouse,Electronics,Premium,2026-01-30 00:03:11.094128,,True,1
+66,508135,Gaming Mouse,Electronics,Standard,2026-01-30 00:03:11.094128,,True,1
+67,827458,Gaming Mouse,Electronics,Budget,2026-01-30 00:03:11.094128,,True,1
+68,803023,Hand Cream,Beauty,Premium,2026-01-30 00:03:11.094128,,True,1
+69,812220,Hiking Boots,Hiking,Budget,2026-01-30 00:03:11.094128,,True,1
+70,736023,Hiking Boots,Hiking,Premium,2026-01-30 00:03:11.094128,,True,1
+71,977659,Hiking Boots,Hiking,Budget,2026-01-30 00:03:11.094128,,True,1
+72,122948,Hiking Boots,Hiking,Premium,2026-01-30 00:03:11.094128,,True,1
+73,944847,Hiking Boots,Hiking,Standard,2026-01-30 00:03:11.094128,,True,1
+74,421223,Hydration Bladder,Hiking,Budget,2026-01-30 00:03:11.094128,,True,1
+75,706239,Hydration Bladder,Hiking,Premium,2026-01-30 00:03:11.094128,,True,1
+76,864799,Hydration Bladder,Hiking,Standard,2026-01-30 00:03:11.094128,,True,1
+77,645207,Jeans,Clothing,Premium,2026-01-30 00:03:11.094128,,True,1
+78,396131,Jeans,Clothing,Budget,2026-01-30 00:03:11.094128,,True,1
+79,235689,Jeans,Clothing,Premium,2026-01-30 00:03:11.094128,,True,1
+80,843476,Laptop,Electronics,Budget,2026-01-30 00:03:11.094128,,True,1
+81,671147,Laptop,Electronics,Standard,2026-01-30 00:03:11.094128,,True,1
+82,369399,Laptop,Electronics,Budget,2026-01-30 00:03:11.094128,,True,1
+83,634240,Laptop,Electronics,Premium,2026-01-30 00:03:11.094128,,True,1
+84,347727,Lip Balm,Beauty,Budget,2026-01-30 00:03:11.094128,,True,1
+85,786843,Lip Balm,Beauty,Standard,2026-01-30 00:03:11.094128,,True,1
+86,702320,Lip Balm,Beauty,Premium,2026-01-30 00:03:11.094128,,True,1
+87,535040,Makeup Brush Set,Beauty,Standard,2026-01-30 00:03:11.094128,,True,1
+88,656960,Makeup Brush Set,Beauty,Budget,2026-01-30 00:03:11.094128,,True,1
+89,252207,Mascara,Beauty,Budget,2026-01-30 00:03:11.094128,,True,1
+90,412345,Mascara,Beauty,Standard,2026-01-30 00:03:11.094128,,True,1
+91,582978,Mechanical Keyboard,Electronics,Budget,2026-01-30 00:03:11.094128,,True,1
+92,153711,Mechanical Keyboard,Electronics,Standard,2026-01-30 00:03:11.094128,,True,1
+93,498279,Microwave Oven,Home,Standard,2026-01-30 00:03:11.094128,,True,1
+94,360867,Microwave Oven,Home,Budget,2026-01-30 00:03:11.094128,,True,1
+95,697779,Microwave Oven,Home,Premium,2026-01-30 00:03:11.094128,,True,1
+96,892744,Moisturizer,Beauty,Budget,2026-01-30 00:03:11.094128,,True,1
+97,493509,Moisturizer,Beauty,Premium,2026-01-30 00:03:11.094128,,True,1
+98,189182,Multi-Tool Knife,Hiking,Premium,2026-01-30 00:03:11.094128,,True,1
+99,296718,Multi-Tool Knife,Hiking,Budget,2026-01-30 00:03:11.094128,,True,1
+100,423339,Nail Polish,Beauty,Budget,2026-01-30 00:03:11.094128,,True,1
+101,489230,Nail Polish,Beauty,Premium,2026-01-30 00:03:11.094128,,True,1
+102,580640,Nail Polish,Beauty,Standard,2026-01-30 00:03:11.094128,,True,1
+103,351603,Noise Cancelling Headphones,Electronics,Budget,2026-01-30 00:03:11.094128,,True,1
+104,213290,Perfume,Beauty,Budget,2026-01-30 00:03:11.094128,,True,1
+105,295554,Perfume,Beauty,Premium,2026-01-30 00:03:11.094128,,True,1
+106,668388,Perfume,Beauty,Standard,2026-01-30 00:03:11.094128,,True,1
+107,384495,Perfume,Beauty,Premium,2026-01-30 00:03:11.094128,,True,1
+108,363739,Portable Charger,Electronics,Budget,2026-01-30 00:03:11.094128,,True,1
+109,896320,Portable Lantern,Hiking,Budget,2026-01-30 00:03:11.094128,,True,1
+110,806814,Portable Lantern,Hiking,Budget,2026-01-30 00:03:11.094128,,True,1
+111,658438,Portable Lantern,Hiking,Standard,2026-01-30 00:03:11.094128,,True,1
+112,860477,Raincoat,Clothing,Budget,2026-01-30 00:03:11.094128,,True,1
+113,997239,Raincoat,Clothing,Premium,2026-01-30 00:03:11.094128,,True,1
+114,412977,Raincoat,Clothing,Premium,2026-01-30 00:03:11.094128,,True,1
+115,870490,Rug,Home,Premium,2026-01-30 00:03:11.094128,,True,1
+116,134375,Rug,Home,Standard,2026-01-30 00:03:11.094128,,True,1
+117,802950,Scarf,Clothing,Budget,2026-01-30 00:03:11.094128,,True,1
+118,193713,Scarf,Clothing,Premium,2026-01-30 00:03:11.094128,,True,1
+119,276184,Shampoo,Beauty,Budget,2026-01-30 00:03:11.094128,,True,1
+120,172985,Shampoo,Beauty,Standard,2026-01-30 00:03:11.094128,,True,1
+121,208506,Shorts,Clothing,Premium,2026-01-30 00:03:11.094128,,True,1
+122,351949,Shorts,Clothing,Standard,2026-01-30 00:03:11.094128,,True,1
+123,728803,Shorts,Clothing,Budget,2026-01-30 00:03:11.094128,,True,1
+124,719807,Sleeping Bag,Hiking,Budget,2026-01-30 00:03:11.094128,,True,1
+125,464245,Sleeping Bag,Hiking,Budget,2026-01-30 00:03:11.094128,,True,1
+126,277408,Sleeping Bag,Hiking,Premium,2026-01-30 00:03:11.094128,,True,1
+127,361900,Smart Tv,Electronics,Standard,2026-01-30 00:03:11.094128,,True,1
+128,638617,Smart Tv,Electronics,Premium,2026-01-30 00:03:11.094128,,True,1
+129,791100,Smart Tv,Electronics,Standard,2026-01-30 00:03:11.094128,,True,1
+130,314816,Smartphone,Electronics,Standard,2026-01-30 00:03:11.094128,,True,1
+131,402097,Smartwatch,Electronics,Budget,2026-01-30 00:03:11.094128,,True,1
+132,690617,Smartwatch,Electronics,Premium,2026-01-30 00:03:11.094128,,True,1
+133,505938,Smartwatch,Electronics,Budget,2026-01-30 00:03:11.094128,,True,1
+134,428443,Smartwatch,Electronics,Standard,2026-01-30 00:03:11.094128,,True,1
+135,271403,Sneakers,Clothing,Standard,2026-01-30 00:03:11.094128,,True,1
+136,614826,Storage Basket,Home,Budget,2026-01-30 00:03:11.094128,,True,1
+137,506187,Storage Basket,Home,Premium,2026-01-30 00:03:11.094128,,True,1
+138,330784,Sunscreen,Beauty,Premium,2026-01-30 00:03:11.094128,,True,1
+139,833984,Sunscreen,Beauty,Standard,2026-01-30 00:03:11.094128,,True,1
+140,924352,Sweater,Clothing,Premium,2026-01-30 00:03:11.094128,,True,1
+141,855656,Sweater,Clothing,Standard,2026-01-30 00:03:11.094128,,True,1
+142,646012,Table Lamp,Home,Standard,2026-01-30 00:03:11.094128,,True,1
+143,620498,Table Lamp,Home,Premium,2026-01-30 00:03:11.094128,,True,1
+144,358683,Tablet,Electronics,Premium,2026-01-30 00:03:11.094128,,True,1
+145,858743,Tablet,Electronics,Standard,2026-01-30 00:03:11.094128,,True,1
+146,298563,Tablet,Electronics,Premium,2026-01-30 00:03:11.094128,,True,1
+147,643274,Tent,Hiking,Standard,2026-01-30 00:03:11.094128,,True,1
+148,609280,Tent,Hiking,Standard,2026-01-30 00:03:11.094128,,True,1
+149,166920,Toaster,Home,Premium,2026-01-30 00:03:11.094128,,True,1
+150,427914,Toaster,Home,Premium,2026-01-30 00:03:11.094128,,True,1
+151,105614,Toaster,Home,Standard,2026-01-30 00:03:11.094128,,True,1
+152,152357,Trekking Poles,Hiking,Budget,2026-01-30 00:03:11.094128,,True,1
+153,297034,Trekking Poles,Hiking,Premium,2026-01-30 00:03:11.094128,,True,1
+154,682010,Trekking Poles,Hiking,Standard,2026-01-30 00:03:11.094128,,True,1
+155,390839,Usb-C Hub,Electronics,Standard,2026-01-30 00:03:11.094128,,True,1
+156,164142,Wall Clock,Home,Premium,2026-01-30 00:03:11.094128,,True,1
+157,755164,Wall Clock,Home,Standard,2026-01-30 00:03:11.094128,,True,1
+158,888260,Water Filter,Hiking,Premium,2026-01-30 00:03:11.094128,,True,1
+159,754122,Water Filter,Hiking,Budget,2026-01-30 00:03:11.094128,,True,1
+160,383742,Water Filter,Hiking,Premium,2026-01-30 00:03:11.094128,,True,1
