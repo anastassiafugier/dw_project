@@ -4,8 +4,8 @@ from faker import Faker
 
 conn = psycopg2.connect(
     host="localhost",
-    dbname="",
-    user="",
+    dbname="postgres",
+    user="anastassiafugier",
     port=5432
 )
 cursor = conn.cursor()
