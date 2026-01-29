@@ -4,8 +4,8 @@ from psycopg2.extras import execute_values
 
 DB_CONFIG = {
     "host": "localhost",
-    "dbname": "postgres",
-    "user": "anastassiafugier",
+    "dbname": "",
+    "user": "",
     "port": 5432
 }
 
@@ -76,7 +76,7 @@ def load_reviews():
     """
 
     cur.execute(sql_dwh)
-    print("Reviews loaded into dwh.")
+    print("Reviews loaded into the dwh fact reviews table.")
     conn.commit()
 
     cur.close()

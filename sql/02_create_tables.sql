@@ -51,7 +51,7 @@ CREATE TABLE staging.stg_reviews (
     product_business_key INTEGER,
     rating INTEGER,
     review_text TEXT,
-    sentiment_score NUMERIC(4,2),
+    sentiment_score NUMERIC(3,2),
     raw_source JSONB
 );
 
