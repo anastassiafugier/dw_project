@@ -4,7 +4,7 @@ The course undertaken : Data Warehouse 2
 
 Carried out with : Eliote Verchere, Yoan Le Nevez
 
-## User guide
+## User guide (cf. folder sql)
 
 Follow this order, it is needed since tables are populated in different sql/python scripts:
 
